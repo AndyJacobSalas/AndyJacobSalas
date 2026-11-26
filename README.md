@@ -1,5 +1,5 @@
 <!-- Banner de arriba con degradado y tu nombre -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Andy%20JacobSalas&fontSize=48&fontAlignY=35&desc=Ing.%20en%20TIC%20%7C%20Redes%20e%20IoT&descAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Andrea%20Jacob%20Salas&fontSize=48&fontAlignY=35&desc=Ing.%20en%20TIC%20%7C%20Redes%20e%20IoT&descAlignY=55" width="100%"/>
 
 <!-- Texto que se escribe solo -->
 <p align="center">
