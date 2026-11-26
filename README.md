@@ -17,7 +17,7 @@
 - 🎓 Estudiante de **Ingeniería en Tecnologías de la Información y Comunicaciones**
 - 📡 Trabajo en un **proveedor de internet**, donde practico redes y programación
 - 🔬 Hago investigación en **IoT**: una pulsera de seguridad con **ESP32**
-- 🏆 Líder de equipo en el **Rally Latinoamericano de Innovación**
+- 🏆 Líder de equipo en el **Rally Latinoamericano de Innovación 2026**
 - 🌱 Me interesa la tecnología que ayuda a las comunidades
 
 ## 🛠️ Tecnologías
